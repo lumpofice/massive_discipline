@@ -1,0 +1,13 @@
+{% extends 'base.html' %} <!-- This line loads the base.html code -->
+
+{% block app_content %}
+
+	<!-- This is the template for the 404 error viewfunction. -->
+
+	<h1>File Not Found</h1>
+
+	<p><a href='{{ url_for("main.index") }}'>Back</a></p>
+
+{% endblock %}
+
+

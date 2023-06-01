@@ -1,0 +1,96 @@
+# Spanish translations for PROJECT.
+# Copyright (C) 2023 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2023.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2023-04-22 11:09-0400\n"
+"PO-Revision-Date: 2023-04-03 08:44-0400\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: es\n"
+"Language-Team: es <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: app/__init__.py:26
+msgid "Log in to access this page."
+msgstr "Inicie sesión para acceder a esta página."
+
+#: app/auth/forms.py:15 app/auth/forms.py:26 app/main/forms.py:13
+msgid "Username"
+msgstr "Nombre de usuario"
+
+#: app/auth/forms.py:16 app/auth/forms.py:28
+msgid "Password"
+msgstr "Contraseña"
+
+#: app/auth/forms.py:17
+msgid "Remember Me"
+msgstr "Recuérdame"
+
+#: app/auth/forms.py:18
+msgid "Sign In"
+msgstr "Inicia sesión"
+
+#: app/auth/forms.py:27 app/auth/forms.py:55
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: app/auth/forms.py:29
+msgid "Repeat Password"
+msgstr "Repetir contraseña"
+
+#: app/auth/forms.py:31
+msgid "Register"
+msgstr "Registro"
+
+#: app/auth/forms.py:41 app/main/forms.py:40
+msgid "Please use a different username."
+msgstr "Utilice un nombre de usuario diferente."
+
+#: app/auth/forms.py:51
+msgid "Please use a different email address."
+msgstr "Utilice una dirección de correo electrónico diferente."
+
+#: app/auth/forms.py:56
+msgid "Request Password Reset"
+msgstr "Solicitar restablecimiento de contraseña"
+
+#: app/main/forms.py:14
+msgid "About me"
+msgstr "Acerca de mí"
+
+#: app/main/forms.py:16
+msgid "Submit"
+msgstr "Enviar"
+
+#: app/templates/base.html:50
+msgid "Home"
+msgstr "Hogar"
+
+#: app/templates/base.html:56
+msgid "Explore"
+msgstr "Explorar"
+
+#: app/templates/base.html:67
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: app/templates/base.html:81
+msgid "Profile"
+msgstr "Perfil"
+
+#: app/templates/base.html:87
+msgid "Logout"
+msgstr "Cerrar sesión"
+
+#: app/templates/base.html:93
+msgid "Score"
+msgstr "Puntuación"
+
